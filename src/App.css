@@ -1,35 +1,35 @@
-* {
-
-margin: 0px;
-
+*{
+  margin: 0;
 }
 
-.app {
-
+.app{
   background-color: #fafafa;
   height: 100vh;
 }
 
-.logo__header {
+.app__header{
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
 
-  width: 190px;
+.app__headerImage{
+  object-fit: contain;
+}
+
+.app__signUp{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Up_Load {
+
+  position: center;
   
 }
-
-
-.App__header {
-
-object-fit: contain;
-background-color: white;
-padding: 20px;
-border-bottom: 1px solid lightgray;
-
-}
-
-.s_up {
-
-display: flex;
-flex-direction: column;
-
-}
-
