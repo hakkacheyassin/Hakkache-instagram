@@ -1,0 +1,35 @@
+* {
+
+margin: 0px;
+
+}
+
+.app {
+
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+.logo__header {
+
+  width: 190px;
+  
+}
+
+
+.App__header {
+
+object-fit: contain;
+background-color: white;
+padding: 20px;
+border-bottom: 1px solid lightgray;
+
+}
+
+.s_up {
+
+display: flex;
+flex-direction: column;
+
+}
+
