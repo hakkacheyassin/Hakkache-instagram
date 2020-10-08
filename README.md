@@ -1,6 +1,9 @@
-                                           <img src="vegan-style-personal-use.png" alt="image"/>
+    
+    
+    
+    
+<img src="vegan-style-personal-use.png" alt="image"/>
                                            
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
