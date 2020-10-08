@@ -2,12 +2,15 @@
   margin: 0;
 }
 
-.app{
+.App{
   background-color: #fafafa;
   height: 100vh;
 }
 
 .app__header{
+  position: sticky;
+  top: 0;
+  z-index: 1;
   background-color: white;
   padding: 20px;
   border-bottom: 1px solid lightgrey;
@@ -16,10 +19,17 @@
   position: sticky;
   top: 0;
   z-index: 1;
+} 
+.app__posts{
+
+    padding: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .app__headerImage{
   object-fit: contain;
+  width:200px;
 }
 
 .app__signUp{
@@ -33,3 +43,10 @@
   position: center;
   
 }
+
+.app_postrghit {
+
+  margin-left: 20px;
+
+}
+
