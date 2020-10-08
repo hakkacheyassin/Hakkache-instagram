@@ -1,5 +1,5 @@
     
-    <p align="center"> <img src="vegan-style-personal-use.png"/></p>
+<img src="vegan-style-personal-use.png"/>
     
     
 
